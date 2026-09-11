@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eliteequinemarketplace.github.io/resources-m4hft0/sitemap.xml
